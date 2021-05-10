@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @simplysur
+- 👋 Hi, I’m Suraksha Balachandra
 - 👀 I’m interested in learning new technologies and writing as a hobby.
 - 🌱 I’m currently learning vue.js 
 - 💞️ I’m looking to collaborate on SEO based inputs for writing, mini and minor hobby projects 
-- 📫 How to reach me simplysur08@gmail.com
+- 📫 How to reach me - simplysur08@gmail.com
 
 <!---
 simplysur/simplysur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
